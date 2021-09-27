@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuessThePhrase</string>
+    <string name="enter_your_number">Enter your number</string>
+    <string name="guess">Guess</string>
+    <string name="guess_a_letter">Guess a letter</string>
+    <string name="textview">TextView</string>
+    <string name="message">Message</string>
+</resources>
